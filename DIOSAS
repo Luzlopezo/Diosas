@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página de Empoderamiento y Amor Propio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .header {
+            background-color: #ffc0cb;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        .love-icons {
+            font-size: 48px;
+            color: #ff6b81;
+        }
+        .social-links {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Mi Página de Empoderamiento y Amor Propio</h1>
+    </div>
+    <div class="content">
+        <p>Bienvenido/a a mi página personal dedicada al empoderamiento y amor propio. Aquí encontrarás inspiración, consejos y recursos para fortalecer tu autoestima y amor propio.</p>
+        <p><span class="love-icons">❤️</span> ¡Ámate a ti mismo/a!</p>
+        
+        <!-- Redes Sociales -->
+        <div class="social-links">
+            <a href="https://www.instagram.com/tucuenta" target="_blank">Instagram</a> |
+            <a href="https://www.facebook.com/tucuenta" target="_blank">Facebook</a> |
+            <a href="https://twitter.com/tucuenta" target="_blank">Twitter</a>
+        </div>
+
+        <!-- Afiliaciones -->
+        <p>Como afiliado/a, colaboro con las siguientes empresas y gano comisiones por compras a través de estos enlaces:</p>
+        <ul>
+            <li><a href="enlace-de-afiliado-1" target="_blank">Afiliación 1</a></li>
+            <li><a href="enlace-de-afiliado-2" target="_blank">Afiliación 2</a></li>
+            <!-- Agrega más enlaces de afiliados si es necesario -->
+        </ul>
+    </div>
+</body>
+</html>
